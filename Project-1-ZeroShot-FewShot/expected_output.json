@@ -1,0 +1,9 @@
+{
+  "customer_name": "Daniel Cho",
+  "order_id": "ORD-77310",
+  "issue_category": "product_defect",
+  "sentiment": "neutral",
+  "urgency": "low",
+  "requested_resolution": "Send a replacement laptop stand with an intact base.",
+  "summary": "Customer received a laptop stand with a cracked base, likely due to shipping damage, and is requesting a non-urgent replacement."
+}
